@@ -1,0 +1,22 @@
+{
+  "name": "gym-website",
+  "version": "1.0.0",
+  "description": "A minimalist modern responsive website for a gym.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'No build process defined'"
+  },
+  "keywords": [
+    "gym",
+    "website",
+    "responsive",
+    "minimalist"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
